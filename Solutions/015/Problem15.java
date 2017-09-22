@@ -5,10 +5,7 @@ public class Problem15 {
 			40 = number of possible left + down movements in a 20x20 grid
 			20 = number of possible left movements
 			20 = number of possible right movements
-			but how the fuk do i solve this algorithmically???
+			but how the heck do i solve this algorithmically???
 		*/
-		
-		int counter = 0;
-		
 	}
 }
