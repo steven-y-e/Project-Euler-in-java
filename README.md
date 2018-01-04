@@ -2,6 +2,8 @@
 
 A personal attempt to write solutions for Project Euler problems in java.
 
+Problems can be found at: https://projecteuler.net/archives
+
 Current Progress:
 
 Solved 20 out of 609 problems
